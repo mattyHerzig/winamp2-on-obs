@@ -15,7 +15,7 @@ If anyone ends up using this, I'd love if you showed me what you did :)
     * Set the Width to 640, and the Height to 360
     * Enable the "Control audio via OBS" checkbox
     * Once done, select OK
-1. Under the Audio Mixer, click the three dots. Set the Webamp's Audio Monitoring appropiately, e.g. I use Desktop (Audio) so I set it to Monitor Only (mute output) to prevent an echo
+1. Under the Audio Mixer, click the three dots. Set the Webamp's Audio Monitoring appropriately, e.g. I use Desktop (Audio) so I set it to Monitor Only (mute output) to prevent an echo
 - Whenever the Webamp Browser Source is refreshed (or just created), you need to select the Webamp Browser Source and click "Interact". From here, drag the top left part of the Webamp to the top left of the window, and drag the bottom right part of the Webamp to the bottom right of the window 
     - Through the interact screen is how you can play songs, enable the loop, change the volume, etc., just like you would through Winamp 2 normally
 - To add tracks or change the skin, right-click `index.html` and select "Open with" > "Notepad" (After, you can update the Webamp within OBS by selecting the Webamp Browser Source, and clicking "Refresh")
