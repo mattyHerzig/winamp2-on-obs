@@ -9,7 +9,7 @@ If anyone ends up using this, I'd love if you showed me what you did :)
 ## Instructions
 1. Download `winamp2-on-obs.zip` from [releases](https://github.com/mattyHerzig/winamp2-on-obs/releases)
 1. Unzip it (right-click, "Extract All..." > "Extract")
-    - If you just want to copy the OBS scene I used in the [Demo](#demo-click) and go from there, import the `winamp2onobs.json` scene collection on OBS. That will, however, require you to update all of the Local file directories by coping the file as its path, the detail of which is seen below. Also, it requires [OBS ShaderFilter Plus](https://obsproject.com/forum/resources/obs-shaderfilter-plus.929/) for those which are a "User-definer shader"
+    - If you just want to copy the OBS scene I used in the [Demo](#demo-click) and go from there, import the `winamp2onobs.json` scene collection on OBS. That will, however, require you to update all of the Local file directories by coping the file as its path, the detail of which is seen below. You do this through a source's properties. Also, it requires [OBS ShaderFilter Plus](https://obsproject.com/forum/resources/obs-shaderfilter-plus.929/) for those which are a "User-definer shader"
 1. On OBS, add a "Browser" source and name it "Webamp"
     * Enable the "Local file" checkbox, and set the Local file textbox to the directory of `index.html` located in the unzipped file. You can copy the path to this file on Windows by Shift + Right-Clicking it, and selecting "Copy as path". You will need to do this with other Local files you use, if you plan to do so
     * Set the Width to 640, and the Height to 360
