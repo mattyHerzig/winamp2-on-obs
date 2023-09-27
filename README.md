@@ -4,7 +4,9 @@ Create a Winamp 2 Browser Source on OBS
 If anyone ends up using this, I'd love if you showed me what you did :)
 
 ## Demo (click)
-[![Demo Video](./thumbnail.jpg)](https://www.twitch.tv/videos/1882886605 "winamp2-on-obs Demo")
+[![Demo Video](./thumbnail.jpg)](https://www.twitch.tv/videos/1882897444 "winamp2-on-obs Demo")
+
+
 
 ## Instructions
 1. Download `winamp2-on-obs.zip` from [releases](https://github.com/mattyHerzig/winamp2-on-obs/releases)
